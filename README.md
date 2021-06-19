@@ -46,10 +46,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> &nbsp;   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> &nbsp; <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>  
 
-<div style = "margin-top:20px;">
+<div style = "margin-top:30px;">
     <a href="https://github.com/Maan17" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maan17&layout=compact&theme=highcontrast" />
-    </a>
+    </a><br>
     <a href="https://github.com/Maan17">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maan17&hide=prs,issues&theme=highcontrast" />
     </a>
