@@ -53,7 +53,7 @@
 <div style = "margin-top:20px;">
     <a href="https://github.com/Maan17" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maan17&layout=compact&theme=highcontrast" />
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
     <a href="https://github.com/Maan17">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maan17&hide=prs,issues&theme=highcontrast" />
     </a>
