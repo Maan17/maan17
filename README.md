@@ -26,7 +26,7 @@
 
 
 - 🔭 I am currently an Intern in [Tech Mahindra](https://www.techmahindra.com/en-in/?f=1898030218).
-- 🌱 At present strengthening my knowledge in Data Structures and Algorithms.
+- 🌱 At present, strengthening my knowledge in Data Structures and Algorithms.
 - 👯 I am looking for new job opportunities.
 <!--- 🤔 I’m looking for help 
 - 💬 Ask me about
