@@ -9,7 +9,7 @@
   <img align="left" alt="Maansi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Maan17/">
-  <ion-icon name="browsers-outline" style="color:red"></ion-icon>
+  <img align="left" alt="Maansi's GitHub" width="22px" src="https://img.icons8.com/ios-filled/50/26e07f/github.png"/>
 </a>
 <a href="https://t.me/maan1702">
   <img align="left" alt="Maansi's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
