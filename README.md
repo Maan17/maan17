@@ -9,7 +9,7 @@
   <img align="left" alt="Maansi's Linkdein" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png" />
 </a>
 <a href="https://github.com/Maan17/">
-  <img align="left" alt="Maansi's GitHub" width="22px"  src="https://img.icons8.com/doodle/48/fa314a/github--v1.png"/>
+  <img align="left" alt="Maansi's GitHub" width="22px" src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
 </a>
 <a href="https://t.me/maan1702">
   <img align="left" alt="Maansi's Telegram" width="22px" src="https://img.icons8.com/ios-filled/50/4a90e2/telegram-app.png"/>
