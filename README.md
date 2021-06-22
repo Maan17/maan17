@@ -18,7 +18,7 @@
   <img align="left" alt="Maansi's Instagram" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/instagram-new.png"/>
 </a>
 <a href="https://www.youtube.com/channel/UCTRuU89_1O9lkpErP6FnbSg">
-  <img align="left" alt="Maansi's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Maansi's Youtube" width="22px"  src="https://img.icons8.com/fluent/48/fa314a/youtube-play.png" />
 </a>
 
 <br/>
