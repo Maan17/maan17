@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username) 
 
 <a href="https://twitter.com/pyMaansi">
-  <img align="left" alt="Maansi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Maansi's Twitter" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/maansiverma8/">
   <img align="left" alt="Maansi's Linkdein" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png" />
