@@ -22,8 +22,8 @@
   <img align="left" alt="Maansi's Twitter" width="30px" src="https://img.icons8.com/fluent/48/4a90e2/twitter.png" />
 </a>
 
-<a href="https://github.com/Maan17/">
-  <img align="left" alt="Maansi's GitHub" width="30px" src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
+<a href="https://stackoverflow.com/users/11545896/maansi">
+  <img align="left" alt="Maansi's Stack Overflow" width="30px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 </a>
 
 
