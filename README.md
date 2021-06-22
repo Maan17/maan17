@@ -6,7 +6,7 @@
   <img align="left" alt="Maansi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/maansiverma8/">
-  <img align="left" alt="Maansi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Maansi's Linkdein" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png" />
 </a>
 <a href="https://github.com/Maan17/">
   <img align="left" alt="Maansi's GitHub" width="22px"  src="https://img.icons8.com/doodle/48/fa314a/github--v1.png"/>
