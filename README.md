@@ -12,7 +12,7 @@
   <img align="left" alt="Maansi's GitHub" width="22px"  src="https://img.icons8.com/doodle/48/fa314a/github--v1.png"/>
 </a>
 <a href="https://t.me/maan1702">
-  <img align="left" alt="Maansi's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Maansi's Telegram" width="22px" src="https://img.icons8.com/ios-filled/50/4a90e2/telegram-app.png"/>
 </a>
 <a href="https://www.instagram.com/maansi8/">
   <img align="left" alt="Maansi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
