@@ -2,24 +2,31 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username) 
 
-<a href="https://twitter.com/pyMaansi">
-  <img align="left" alt="Maansi's Twitter" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/twitter.png" />
-</a>
 <a href="https://www.linkedin.com/in/maansiverma8/">
-  <img align="left" alt="Maansi's Linkdein" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png" />
+  <img align="left" alt="Maansi's Linkdein" width="30px" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png" />
 </a>
-<a href="https://github.com/Maan17/">
-  <img align="left" alt="Maansi's GitHub" width="22px" src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
-</a>
-<a href="https://t.me/maan1702">
-  <img align="left" alt="Maansi's Telegram" width="22px" src="https://img.icons8.com/ios-filled/50/4a90e2/telegram-app.png"/>
-</a>
+
 <a href="https://www.instagram.com/maansi8/">
-  <img align="left" alt="Maansi's Instagram" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/instagram-new.png"/>
+  <img align="left" alt="Maansi's Instagram" width="30px" src="https://img.icons8.com/fluent/48/4a90e2/instagram-new.png"/>
 </a>
+
+<a href="https://t.me/maan1702">
+  <img align="left" alt="Maansi's Telegram" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/telegram-app.png"/>
+</a>
+
 <a href="https://www.youtube.com/channel/UCTRuU89_1O9lkpErP6FnbSg">
-  <img align="left" alt="Maansi's Youtube" width="22px"  src="https://img.icons8.com/fluent/48/fa314a/youtube-play.png" />
+  <img align="left" alt="Maansi's Youtube" width="30px"  src="https://img.icons8.com/fluent/48/fa314a/youtube-play.png" />
 </a>
+
+<a href="https://twitter.com/pyMaansi">
+  <img align="left" alt="Maansi's Twitter" width="30px" src="https://img.icons8.com/fluent/48/4a90e2/twitter.png" />
+</a>
+
+<a href="https://github.com/Maan17/">
+  <img align="left" alt="Maansi's GitHub" width="30px" src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
+</a>
+
+
 
 <br/>
 <br/>
