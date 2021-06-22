@@ -1,6 +1,6 @@
-## Hello, I'm Maansi!! 👋
+## Hello, I'm Maansi!! 👋 ![](https://komarev.com/ghpvc/?username=your-github-username) 
 
-![](https://komarev.com/ghpvc/?username=your-github-username) 
+
 
 <a href="https://www.linkedin.com/in/maansiverma8/">
   <img align="left" alt="Maansi's Linkdein" width="30px" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png" />
