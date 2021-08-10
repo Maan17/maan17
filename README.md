@@ -34,7 +34,7 @@
 <br/>
 
 
-- 🔭 I am currently workin in Sopra Banking Software (https://www.soprabanking.com/).
+- 🔭 I am currently workin in [Sopra Banking Software](https://www.soprabanking.com/).
 - 🌱 At present, strengthening my knowledge in Data Structures and Algorithms.
 <!--- 🤔 I’m looking for help 
 - 💬 Ask me about
