@@ -34,8 +34,8 @@
 <br/>
 
 
-- 🔭 I am currently working in [Sopra Banking Software](https://www.soprabanking.com/).
-- 🌱 At present, strengthening my knowledge in Data Structures and Algorithms.
+- 🔭 Engineer-Trainee at [Sopra Banking Software](https://www.soprabanking.com/).
+- 🌱 At present, learning advanced Java and also Spring framework.
 <!--- 🤔 I’m looking for help 
 - 💬 Ask me about
 - 📫 How to reach me: 
