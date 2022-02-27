@@ -34,8 +34,7 @@
 <br/>
 
 
-- 🔭 Engineer-Trainee at [Sopra Banking Software](https://www.soprabanking.com/).
-- 🌱 At present, learning advanced Java and also Spring framework.
+- 🔭 Software Engineer at [Sopra Banking Software](https://www.soprabanking.com)
 <!--- 🤔 I’m looking for help 
 - 💬 Ask me about
 - 📫 How to reach me: 
